@@ -1,0 +1,1 @@
+- [x] Step 1: Edit the xhr.onload line in templates/index.html from "funtion" to "function"
