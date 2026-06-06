@@ -3,10 +3,10 @@
 End-to-end data project: cleaned 13,000+ Bengaluru property listings, performed EDA, removed outliers, compared regression models, and deployed a Flask app for price prediction with comparable property insights.
 
 ## Key insights
-- Top expensive areas: [paste from your insights cell]
-- Final model R²: [paste from your insights cell]
-- Cleaned dataset: [X] rows after outlier removal
-- Strong correlation between sqft and price ([X])
+- Top 5 expensive areas: Cunningham Road, Sadashiva Nagar, Dodsworth Layout, Giri Nagar, HAL 2nd Stage
+- Final model R²: 0.8519
+- Cleaned dataset: 7,248 rows after outlier removal
+- Strong correlation between sqft and price 0.84
 - 3 BHK shows the steepest price jump from 2 BHK
 
 ## EDA highlights
